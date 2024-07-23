@@ -1,0 +1,13 @@
+SECRET_KEY=
+DEBUG=True
+CACHE_ENABLED=True
+CACHE_LOCATION=redis://127.0.0.1:6379
+EMAIL_HOST_USER=  # example@gmail.com
+EMAIL_HOST_PASSWORD=    # в формате например: myji wexu fjqj jpou
+EMAIL_PORT=587
+ENGINE=django.db.backends.postgresql
+NAME  # имя бд
+USER=postgres
+PASSWORD=
+HOST=localhost
+PORT=5432
